@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MOVIES>
+    <MOVIE id="0">
+        <NAME>The Break-Up</NAME>
+        <RATED>G</RATED>
+        <TIMES>
+            <TIME>Noon</TIME>
+            <TIME>1:50pm</TIME>
+            <TIME>2:35pm</TIME>
+            <TIME>4:25pm</TIME>
+            <TIME>5:10pm</TIME>
+            <TIME>7:00pm</TIME>
+            <TIME>7:50pm</TIME>
+            <TIME>9:35pm</TIME>
+            <TIME>10:25pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>02/06/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 46 min.</RUN-TIME>
+        <GENRE>Comedy</GENRE>
+        <STARS>
+            <STAR>Vince Vaughn</STAR>
+            <STAR>Jennifer Aniston</STAR>
+            <STAR>Joey Lauren Adams</STAR>
+            <STAR>Ann-Margret</STAR>
+            <STAR>Jason Bateman</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>Peyton Reed</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>Vince Vaughn</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>Jay Lavender</WRITER>
+            <WRITER>Jay Lavender</WRITER>
+            <WRITER>Jay Lavender</WRITER>
+        </WRITERS>
+        <STUDIO>Universal Pictures</STUDIO>
+    </MOVIE>
+    <MOVIE id="1">
+        <NAME>Cars</NAME>
+        <RATED>G</RATED>
+        <TIMES>
+            <TIME>12:25pm</TIME>
+            <TIME>1:00pm</TIME>
+            <TIME>3:15pm</TIME>
+            <TIME>4:05pm</TIME>
+            <TIME>6:30pm</TIME>
+            <TIME>9:15pm</TIME>
+            <TIME>9:55pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>09/06/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 57 min.</RUN-TIME>
+        <GENRE>Animation</GENRE>
+        <STARS>
+            <STAR>Paul Newman</STAR>
+            <STAR>Owen Wilson</STAR>
+            <STAR>Bonnie Hunt</STAR>
+            <STAR>"Larry the Cable Guy"</STAR>
+            <STAR>Cheech Marin</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>John Lasseter</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>Darla Anderson</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>John Lasseter</WRITER>
+        </WRITERS>
+        <STUDIO>Buena Vista</STUDIO>
+    </MOVIE>
+    <MOVIE id="2">
+        <NAME>Click</NAME>
+        <RATED>G</RATED>
+        <TIMES>
+            <TIME>11:45am</TIME>
+            <TIME>12:15pm</TIME>
+            <TIME>12:45pm</TIME>
+            <TIME>1:30pm</TIME>
+            <TIME>2:15pm</TIME>
+            <TIME>3:00pm</TIME>
+            <TIME>3:30pm</TIME>
+            <TIME>4:15pm</TIME>
+            <TIME>5:00pm</TIME>
+            <TIME>5:45pm</TIME>
+            <TIME>6:15pm</TIME>
+            <TIME>7:45pm</TIME>
+            <TIME>8:30pm</TIME>
+            <TIME>8:55pm</TIME>
+            <TIME>9:45pm</TIME>
+            <TIME>10:30pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>23/06/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 37 min.</RUN-TIME>
+        <GENRE>Comedy</GENRE>
+        <STARS>
+            <STAR>Adam Sandler</STAR>
+            <STAR>Christopher Walken</STAR>
+            <STAR>Kate Beckinsale</STAR>
+            <STAR>David Hasselhoff</STAR>
+            <STAR>Sean Astin</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>Frank Coraci</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>Neal H Moritz</PRODUCER>
+            <PRODUCER>Jack Giarraputo</PRODUCER>
+            <PRODUCER>Adam Sandler</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>Steven Koren</WRITER>
+            <WRITER>Steven Koren</WRITER>
+            <WRITER>Steven Koren</WRITER>
+        </WRITERS>
+        <STUDIO>Sony Pictures Releasing</STUDIO>
+    </MOVIE>
+    <MOVIE id="3">
+        <NAME>District B-13 (Banlieue 13)</NAME>
+        <RATED>13+</RATED>
+        <TIMES>
+            <TIME>12:05pm</TIME>
+            <TIME>2:15pm</TIME>
+            <TIME>4:25pm</TIME>
+            <TIME>7:15pm</TIME>
+            <TIME>9:25pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>02/06/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 25 min.</RUN-TIME>
+        <GENRE>SciFi/Fantasy</GENRE>
+        <STARS>
+            <STAR>Cyril Raffaelli</STAR>
+            <STAR>David Belle</STAR>
+            <STAR>Tony D'Amario</STAR>
+            <STAR>Bibi Naceri</STAR>
+            <STAR>Dany Verissimo</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>Pierre Morel</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>Luc Besson</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>Luc Besson</WRITER>
+            <WRITER>Luc Besson</WRITER>
+        </WRITERS>
+        <STUDIO>Magnolia Pictures</STUDIO>
+    </MOVIE>
+    <MOVIE id="4">
+        <NAME>Garfield: A Tail of Two Kitties</NAME>
+        <RATED>G</RATED>
+        <TIMES>
+            <TIME>12:30pm</TIME>
+            <TIME>2:35pm</TIME>
+            <TIME>4:40pm</TIME>
+            <TIME>7:00pm</TIME>
+            <TIME>9:00pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>16/06/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 20 min.</RUN-TIME>
+        <GENRE>Animation</GENRE>
+        <STARS>
+            <STAR>Breckin Meyer</STAR>
+            <STAR>Jennifer Love Hewitt</STAR>
+            <STAR>Billy Connolly</STAR>
+            <STAR>Lucy Davis</STAR>
+            <STAR>Bill Murray</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>Tim Hill</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>John Davis</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>Alec Sokolow</WRITER>
+            <WRITER>Alec Sokolow</WRITER>
+        </WRITERS>
+        <STUDIO>20th Century Fox</STUDIO>
+    </MOVIE>
+    <MOVIE id="5">
+        <NAME>The Heart of the Game</NAME>
+        <RATED>G</RATED>
+        <TIMES>
+            <TIME>Noon</TIME>
+            <TIME>2:30pm</TIME>
+            <TIME>5:05pm</TIME>
+            <TIME>7:35pm</TIME>
+            <TIME>10:05pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>07/07/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 42 min.</RUN-TIME>
+        <GENRE>Documentary</GENRE>
+        <STARS>
+            <STAR>Darnelia Russell</STAR>
+            <STAR>Bill Resler</STAR>
+            <STAR>Devon Crosby-Helms</STAR>
+            <STAR>Meghan Miller</STAR>
+            <STAR>Jade White</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>Ward Serrill</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>Ward Serrill</PRODUCER>
+            <PRODUCER>Liz Manne</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>Ward Serrill</WRITER>
+        </WRITERS>
+        <STUDIO>Miramax Films</STUDIO>
+    </MOVIE>
+    <MOVIE id="6">
+        <NAME>An Inconvenient Truth</NAME>
+        <RATED>G</RATED>
+        <TIMES>
+            <TIME>12:10pm</TIME>
+            <TIME>12:50pm</TIME>
+            <TIME>2:25pm</TIME>
+            <TIME>3:10pm</TIME>
+            <TIME>4:45pm</TIME>
+            <TIME>5:30pm</TIME>
+            <TIME>7:15pm</TIME>
+            <TIME>7:50pm</TIME>
+            <TIME>9:35pm</TIME>
+            <TIME>10:10pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>24/05/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 40 min.</RUN-TIME>
+        <GENRE>Documentary</GENRE>
+        <STARS>
+            <STAR>Al Gore</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>Davis Guggenheim</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>Lawrence Bender</PRODUCER>
+            <PRODUCER>Scott Z. Burns</PRODUCER>
+            <PRODUCER>Laurie David</PRODUCER>
+            <PRODUCER>Al Gore</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>Lawrence Bender</WRITER>
+            <WRITER>Lawrence Bender</WRITER>
+            <WRITER>Lawrence Bender</WRITER>
+            <WRITER>Lawrence Bender</WRITER>
+        </WRITERS>
+        <STUDIO>Paramount Classics</STUDIO>
+    </MOVIE>
+    <MOVIE id="7">
+        <NAME>Keeping Up With the Steins</NAME>
+        <RATED>G</RATED>
+        <TIMES>
+            <TIME>1:15pm</TIME>
+            <TIME>3:30pm</TIME>
+            <TIME>5:45pm</TIME>
+            <TIME>8:00pm</TIME>
+            <TIME>10:15pm</TIME>
+        </TIMES>
+        <RELEASE-DATE>12/05/2006</RELEASE-DATE>
+        <RUN-TIME>1 hr. 39 min.</RUN-TIME>
+        <GENRE>Comedy</GENRE>
+        <STARS>
+            <STAR>Jami Gertz</STAR>
+            <STAR>Daryl Hannah</STAR>
+            <STAR>Garry Marshall</STAR>
+            <STAR>Jeremy Piven</STAR>
+            <STAR>Doris Roberts</STAR>
+        </STARS>
+        <DIRECTORS>
+            <DIRECOTOR>Scott Marshall</DIRECOTOR>
+        </DIRECTORS>
+        <PRODUCERS>
+            <PRODUCER>A.D. Oppenheim</PRODUCER>
+            <PRODUCER>David Scharf</PRODUCER>
+            <PRODUCER>Mark Zakarin</PRODUCER>
+        </PRODUCERS>
+        <WRITERS>
+            <WRITER>Mark Zakarin</WRITER>
+        </WRITERS>
+        <STUDIO>Miramax Films</STUDIO>
+    </MOVIE>
+</MOVIES>
